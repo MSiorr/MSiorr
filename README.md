@@ -4,7 +4,7 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
 
 - 👍 I like programming and 🛠️ creating new things. I feel best in creating 🕸️ websites, 📱 mobile applications and 🎮 games.
 
-- 🎯 What I'm doing now : I am looking for a 🖥️ job
+- 🎯 What I'm doing now : Looking for a 🖥️ job
 
 - <p>💺 In my spare time: I try to create something in <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black&style=flat" /> with <img src="https://img.shields.io/badge/C Sharp-239120?logo=C Sharp&logoColor=white&style=flat" /></p>
 

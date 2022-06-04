@@ -40,8 +40,19 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
 </p>
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MSiorr&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <!--
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSiorr&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 **MSiorr/MSiorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -22,6 +22,7 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black&style=for-the-badge" />
 </p>
   
 ### Other

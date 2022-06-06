@@ -42,6 +42,7 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge" />
 </p>
 
 <br />

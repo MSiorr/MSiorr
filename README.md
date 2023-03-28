@@ -10,6 +10,8 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
 
 - 💼 [My Portfolio](https://msiorr.github.io/Portfolio/)
 
+- 🏆 [Hackathons / Gamejams](https://github.com/stars/MSiorr/lists/hackathons-gamejams)
+
 ## Technologies:
 
 ### Favourite

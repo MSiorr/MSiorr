@@ -33,6 +33,9 @@ My name is Michał and I am 20 years old. I started my adventure with IT 4 years
 
 <p align="center">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=C Sharp&logoColor=white&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SFML-9ED657?logo=SFML&logoColor=black&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/WebGL-990000?logo=WebGL&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" /> 

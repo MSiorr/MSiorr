@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michał and I am 20 years old. I started my adventure with IT 4 years ago. 
+My name is Michał and I am 21 years old. I started my adventure with IT 5 years ago. 
 
 - 👍 I like programming and 🛠️ creating new things. I feel best in creating 🕸️ websites, 📱 mobile applications and 🎮 games.
 
